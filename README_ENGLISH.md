@@ -1,11 +1,18 @@
 # Professor Jiang Xuejin · Claude Code Skill
 
-> A distillation of Professor Jiang Xuejin's worldview into a Claude Code Skill.  
-> Geopolitics, secret history, civilizational analysis — on demand.
+> A distillation of Professor Jiang Xuejin's complete worldview into a Claude Code Skill.  
+> Geopolitics, secret history, civilizational analysis — on demand.  
+> **No server. No API key. Install and use immediately.**
 
 **[📺 Original Channel @PredictiveHistory](https://www.youtube.com/@PredictiveHistory)** · **[🌐 Knowledge Base](https://predictive-history-eta.vercel.app)**
 
 📖 [简体中文](README.md) · [繁體中文](README_TRADITIONAL.md)
+
+---
+
+## What This Is
+
+This Skill embeds the core arguments from 161 of Professor Jiang's video lectures directly into the file as a static knowledge base. Once installed, any AI tool that supports Claude Code Skills can answer questions as Professor Jiang — using his analytical framework, speaking style, and worldview — with no backend to deploy, no API key required, and no internet connection needed.
 
 ---
 
@@ -26,20 +33,23 @@ curl -o ~/.claude/skills/jiang-xuejin.md \
 /jiang-xuejin Who is pulling the strings in Trump's trade war?
 /jiang-xuejin Why is American decline inevitable?
 /jiang-xuejin Does the Illuminati actually exist?
+/jiang-xuejin Why is the modern worldview a collective illusion?
+/jiang-xuejin Who are the Sabbatean-Frankists and how did they shape the modern world?
 ```
 
 ---
 
-## Connect to Live Knowledge Base (Optional)
+## Knowledge Base
 
-After installing, edit `~/.claude/skills/jiang-xuejin.md` and set your API URL:
+161 video lectures across six series:
 
-```yaml
-config:
-  api_url: "https://your-api-domain.com"
-```
-
-Once configured, every question will retrieve relevant excerpts from a knowledge base of 162 video lectures, with source citations in each answer. Works without the API too — the skill reasons from its internalized framework.
+| Series | Topics |
+|--------|--------|
+| Geopolitical Analysis | US-Iran war, Russia-Ukraine, imperial decline, eschatological diplomacy |
+| Power Revealed | Secret societies, transnational capital, mind control, false dialectics |
+| Society & Civilization | Elite overproduction, education failure, immigration game theory, civilizational cycles |
+| Literature & the Soul | Homer, Dante, The Odyssey, the nature of consciousness |
+| Civilization History | Agricultural Revolution through the French Revolution — a complete civilizational lineage |
 
 ---
 
@@ -57,7 +67,9 @@ Every answer is filtered through five questions:
 
 ## About Professor Jiang Xuejin
 
-Harvard-trained historian, former university professor, now teaching full-time on YouTube what he believes is actually happening in the world. He uses a historical framework to decode geopolitical reality — his predictions on Iran, the Middle East, and American decline have been remarkably accurate.
+Harvard-trained historian (PhD), former university professor, now teaching full-time on YouTube what he believes is actually happening in the world. He applies a rigorous historical framework to decode geopolitical reality — his predictions on Iran, the Middle East, and American decline have been remarkably accurate.
+
+His signature opening line:
 
 > *"This is not conspiracy theory — this is documented history."*
 
