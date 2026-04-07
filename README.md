@@ -5,7 +5,7 @@
 
 **[📺 原始频道 @PredictiveHistory](https://www.youtube.com/@PredictiveHistory)** · **[🌐 知识库网站](https://predictive-history-eta.vercel.app)**
 
-📖 [繁體中文](README_ZH-TW.md) · [English](README_EN.md)
+📖 [繁體中文](README_TRADITIONAL.md) · [English](README_ENGLISH.md)
 
 ---
 
